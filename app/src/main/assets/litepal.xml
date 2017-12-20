@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <litepal>
+    <dbname value="NoteBook"></dbname>
+
+    <version value="30"></version>
+
+    <list>
+        <mapping class="com.example.haojie06.todolist.Things"></mapping>
+    </list>
+
+</litepal>
